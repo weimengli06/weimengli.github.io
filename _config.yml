@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Nanjing-China"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mengli Wei/Pernonal Page "
+title                    : "Mengli Wei/Personal Page "
 title_separator          : "-"
 name                     : &name "Mengli Wei"
 description              : &description "personal description"
