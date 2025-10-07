@@ -54,6 +54,9 @@ Example: editing a Markdown file for a talk
 Reviewer
 ------
 IEEE TIFS, TII, TNSE, JAS, IoTJ, 
+
 International Journal of Systems Science, 
+
 Journal of Supercomputing,
+
 CAAI Transactions on Intelligence Technology, etc.
