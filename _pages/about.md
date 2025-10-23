@@ -53,7 +53,7 @@ Example: editing a Markdown file for a talk
 
 Reviewer
 ------
-IEEE TIFS, TII, TNSE, JAS, IoTJ, 
+IEEE TIFS, TII, TNSE, TETCI, JAS, IoTJ, 
 
 International Journal of Systems Science, 
 
