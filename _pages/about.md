@@ -57,6 +57,8 @@ IEEE TIFS, TII, TNSE, TETCI, JAS, IoTJ,
 
 International Journal of Systems Science, 
 
-Journal of Supercomputing,
+Journal of Supercomputing, 
+
+Communications in Nonlinear Science & Numerical Simulation,
 
 CAAI Transactions on Intelligence Technology, etc.
